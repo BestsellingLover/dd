@@ -1,4 +1,5 @@
  {
+    "contacts": [
  {
                 "id": "c200",
                 "title": "Ravi Tamada",
@@ -41,4 +42,5 @@
                 "rating": "4.5",
                 "image" : "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15858631778210762520/text.png"
         }
+     ]
         }
