@@ -1,0 +1,51 @@
+[
+        {
+            "rom":"32GB",
+            "screenSize":"5.5 inch",
+            "backCamera":"21MP",
+            "companyName":"Motorola",
+            "name":"Moto X Play",
+            "frontCamera":"5MP",
+            "battery":"3630mAH",
+            "operatingSystem":"Android 5.1",
+            "processor":"1.8GHz",
+            "url":"http://www.androidtutorialpoint.com/api/motorola_moto_x_play",
+            "ram":"2GB"
+        },
+        {
+            "rom":"8GB",
+            "screenSize":"4 inch",
+            "backCamera":"5MP",
+            "companyName":"Samsung",
+            "name":"Galaxy S Duos 3",
+            "frontCamera":"0.3MP",
+            "battery":"1500mAH",
+            "operatingSystem":"Android 4.4",
+            "processor":"1.2GHz",
+            "url":"http://www.androidtutorialpoint.com/api/samsung_galaxy_s_dous_3",
+            "ram":"512MB"},{"rom":"64GB",
+            "screenSize":"4.7 inch",
+            "backCamera":"12MP",
+            "companyName":"Apple",
+            "name":"Iphone 6S",
+            "frontCamera":"5MP",
+            "battery":"1715mAH",
+            "operatingSystem":"iOS 9",
+            "processor":"1.84GHz",
+            "url":"http://www.androidtutorialpoint.com/api/apple_iphone_6s",
+            "ram":"2GB"
+        },
+        {
+            "rom":"16GB",
+            "screenSize":"5.2 inch",
+            "backCamera":"12.3MP",
+            "companyName":"LG",
+            "name":"Nexus 5X",
+            "frontCamera":"5MP",
+            "battery":"1500mAH",
+            "operatingSystem":"Android 6",
+            "processor":"1.8GHz",
+            "url":"http://www.androidtutorialpoint.com/api/lg_nexus_5x",
+            "ram":"2GB"
+        }
+            ]
