@@ -1,4 +1,7 @@
- [
+{
+  "total_count": 752,
+  "incomplete_results": false,
+  "items":  [
     {
       "login": "moyheen",
       "id": 8110201,
@@ -19,4 +22,4 @@
       "type": "User",
       "site_admin": false,
       "score": 1.0
-    }]
+    }]}
